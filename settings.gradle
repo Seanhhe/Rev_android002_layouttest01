@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Rev_android002_layouttest01"
